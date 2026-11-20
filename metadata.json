@@ -1,0 +1,8 @@
+{
+  "name": "SwasthyaPass - School Student Health Passport",
+  "description": "Digital student health passport system for Indian schools with dedicated access for School Nurses and Parents, real-time medical updates, vitals, allergies, and emergency profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
